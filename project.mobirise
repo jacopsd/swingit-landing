@@ -1,12 +1,12 @@
 {
   "settings": {
-    "name": "NewSite-03-31_1409",
+    "name": "SwingIT!",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#28324e",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -25,7 +25,10 @@
     "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -43,6 +46,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0"
+            }
+          },
           "_anchor": "msg-box5-1",
           "_params": {
             "imageSize": 50,
@@ -85,12 +93,7 @@
           },
           "title": "SwingIT!<div><br></div><div>Leid jouw Danschool, Sportschool, Muziekschool, ...eenvoudigweg vanop je PC'tje</div>",
           "text": "Beheer je vereniging als een pro<br>Online database<br>Electronische Inschrijvingen<br>Toegankelijk voor leden, ouders, docenten en beheerders<br>UNIEK CONCEPT!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "DIV": {
-              "color": "#2969b0"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features3",
@@ -257,7 +260,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Docenten",
                 "showText": false,
@@ -271,7 +274,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Overzicht<br>per&nbsp;docent",
                 "showText": false,
@@ -285,7 +288,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "ONLINE HELP",
                 "showText": false,
@@ -299,7 +302,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "ONLINE HELP",
                 "showText": false,
@@ -313,7 +316,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Stuur SMS aan één of meer groepen",
                 "showText": false,
@@ -355,7 +358,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Overzicht van de groepen",
                 "showText": false,
@@ -369,7 +372,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Statistieken",
                 "showText": false,
@@ -383,7 +386,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Instellingen",
                 "showText": false,
@@ -542,11 +546,11 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b",
+              "color": "#2969b0",
               "font-size": "36px"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -558,15 +562,15 @@
             "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#28324e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.4",
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
@@ -595,6 +599,49 @@
           "title": "GEBRUIKS<br>VRIENDELIJKE<br>INTERFACE",
           "text": "Eenvoudige interface, te gebruiken op PC (Windows &amp; Mac), smartphone &amp; tablet.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#2969b0"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "SwingIT! is veilig en betrouwbaar",
+          "text": "<p>Automatisch dagelijkse backups, veilige SSL certificaten</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -639,6 +686,21 @@
             },
             ".mbr-plan .list-group-item": {
               "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-term": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-figure": {
+              "color": "#2969b0"
+            },
+            ".mbr-price-value": {
+              "color": "#2969b0"
+            },
+            ".mbr-plan-title": {
+              "color": "#2969b0"
             }
           },
           "_tags": [
@@ -652,7 +714,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -714,7 +776,7 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -728,7 +790,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -737,7 +799,7 @@
             "showSubTitle": true
           },
           "title": "PROBEER HET ZELF!",
-          "subtitle": "Krijg toegang tot onze gratis demo site",
+          "subtitle": "Krijg gratis toegang tot onze demo site<br>Je kan alle functionaliteit uittesten als beheerder<br>e-mails en SMS-en worden niet verstuurd ;)<br>Wij vragen enkel je e-mail adres en de naam van je dansschool / sportschool",
           "form": {
             "action": "davy.jacops@gmail.com",
             "alerts": {
@@ -750,48 +812,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GRAAG EEN DEMO ACCOUNT!</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            },
-            ".lead P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-c",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "SwingIT is veilig en betrouwbaar",
-          "text": "<p>Automatisch dagelijkse backups, veilige SSL certificaten</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GRAAG EEN DEMO ACCOUNT!</a>"
         },
         {
           "_tags": [
@@ -805,7 +826,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
