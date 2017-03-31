@@ -411,6 +411,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box1-e H3 {
+  color: #ffffff;
+}
+#msg-box1-e H2 {
+  color: #efefef;
+}
 #msg-box5-1 DIV {
   color: #2969b0;
 }
@@ -425,7 +431,7 @@ h6,
   border-color: #2969b0;
 }
 #header6-6 .mbr-section-title {
-  color: #2969b0;
+  color: #ffffff;
   font-size: 36px;
 }
 #header6-6 .mbr-section-text {
