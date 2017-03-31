@@ -1,12 +1,12 @@
 {
   "settings": {
+    "name": "NewSite-03-31_1409",
     "currentPage": "index.html",
-    "name": "SwingIT!",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#90a878",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -17,15 +17,15 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": ""
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -43,12 +43,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#2969b0"
-            }
-          },
-          "_anchor": "msg-box5-d",
+          "_anchor": "msg-box5-1",
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
@@ -88,9 +83,14 @@
               "size": 0
             }
           },
-          "title": "SwingIT!<br><br>Leid jouw Danschool, Sportschool, Muziekschool, ...eenvoudigweg vanop je PC'tje",
-          "text": "Beheer je vereniging als een pro<br>Online database<br>Electronische Inschrijvingen<br>Toegankelijk voor leden, ouders, docenten en beheerders<br>UNIEK CONCEPT!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "SwingIT!<div><br></div><div>Leid jouw Danschool, Sportschool, Muziekschool, ...eenvoudigweg vanop je PC'tje</div>",
+          "text": "Beheer je vereniging als een pro<br>Online database<br>Electronische Inschrijvingen<br>Toegankelijk voor leden, ouders, docenten en beheerders<br>UNIEK CONCEPT!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0"
+            }
+          }
         },
         {
           "_inherit": "features3",
@@ -98,7 +98,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-e",
+          "_anchor": "features6-2",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -136,8 +136,8 @@
           },
           "title1": "PC, Smartphone &amp; Tablet",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "\"Responsive design\":<br>Werkt op PC  (Windows &amp; Mac) <br>alsook op smartphones &amp; tablets <br>(iOS, Android, Windows)<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "\"Responsive design\":<br>Werkt op PC (Windows &amp; Mac) <br>alsook op smartphones &amp; tablets <br>(iOS, Android, Windows)<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -153,8 +153,8 @@
           },
           "title2": "Elektronische Inschrijvingen",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Elektronische inschrijvingen komen rechtstreeks in je cloud  database terecht. <br>Geen extra administratieve stappen te doorlopen.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "caption2": "Elektronische inschrijvingen komen rechtstreeks in je cloud database terecht. <br>Geen extra administratieve stappen te doorlopen.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -171,7 +171,7 @@
           "title3": "Communicatie",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Communiceer eenvoudig &amp; snel<br>via Groep SMS &amp; Groep e-mail<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -187,8 +187,8 @@
           },
           "title4": "Overal Beschikbaar",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Waar je ook bent, je kan altijd en overal aan je gegevens.<br>Je hoeft je excel file niet bij te hebben...",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "Waar je ook bent, je kan altijd en overal aan je gegevens.<br>Je hoeft je excel file niet bij te hebben...<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -205,7 +205,7 @@
           "title5": "Electronische Betalingen",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Electronisch betalen bij inschrijving<br>(Beschikbaar begin 2018)<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "active": true,
@@ -226,32 +226,177 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            }
+          },
           "_params": {
-            "autoplay": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "timeout": "8",
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/lv5VOGnfk-w",
-                "overlay": false,
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
+                "showTitle": true,
+                "title": "Stel je groepen samen",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Docenten",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Overzicht<br>per&nbsp;docent",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ONLINE HELP",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ONLINE HELP",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Stuur SMS aan één of meer groepen",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Stuur e-mail aan één of meer groepen<br>",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "BEHEER",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Overzicht van de groepen",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Statistieken",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1997.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Instellingen",
+                "showText": false,
+                "text": "De beheerder configureert de site, zet inschrijvingen open etc<br><br>",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#2969b0",
-            "showBullets": false
+            "showBullets": true
           },
-          "_anchor": "slider3-j",
+          "_anchor": "slider3-0",
           "articleLayout": false
         },
         {
@@ -269,7 +414,7 @@
             }
           },
           "_name": "features7",
-          "_anchor": "features7-1",
+          "_anchor": "features7-7",
           "_params": {
             "iconsBgColor": "#2969b0",
             "paddingTop": 2,
@@ -308,7 +453,7 @@
           },
           "title1": "Wie is wie?",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Leden en docenten laden zelf hun profielfoto op. Hierdoor herken je als beheerder snel je mensen.<br><br>",
+          "caption1": "Leden en docenten laden zelf hun profielfoto op. Hierdoor herken je als beheerder snel je mensen.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -368,13 +513,12 @@
               "name": "share",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
+              "color": "#fff"
             }
           },
-          "title5": "Export&nbsp;",
+          "title5": "Export",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Je kan ten allen tijde je gegevens exporteren naar excel, voor offline beschikbaarheid.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -395,25 +539,74 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2969b0"
+              "color": "#28262b",
+              "font-size": "36px"
             },
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+            ".mbr-section-text": {
+              "color": "#565656"
             }
           },
-          "_anchor": "header1-1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-6",
+          "_params": {
+            "imageSize": "70",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/lv5VOGnfk-w",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "GEBRUIKS<br>VRIENDELIJKE<br>INTERFACE",
+          "text": "Eenvoudige interface, te gebruiken op PC (Windows &amp; Mac), smartphone &amp; tablet.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1288.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -428,26 +621,9 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Her-adem!</span><br><br><br><br>",
+          "title": "Her-adem!",
           "text": "\"SwingIT combineert ledenbeheer met leden-interactie: SMS en e-mail.<br><br>Hier bovenop komt het gemak van geautomatiseerde elektronische inschrijvingen.<br><br>De administratieve tijdswinst is enorm\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 SwingIT!"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "pricing-table1",
@@ -469,13 +645,13 @@
             "Theme"
           ],
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-n",
+          "_anchor": "pricing-table2-a",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -496,13 +672,13 @@
           "title": "PRIJZEN",
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
-          "title1": "2017 Lancerings Aanbod",
+          "title1": "2017 Lanceringsaanbod",
           "subtitle1": "Loopt af op 31/12/2017",
           "currency1": "€",
           "price1": "0",
           "period1": "/jaar",
-          "description1": "Inderdaad: gratis<br><br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Beperkt aantal scholen!</li><li class=\"list-group-item\">Onbeperkte gegevens opslag</li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">&nbsp;</span>20 cent per SMS</li></ul><p><br></p><p><br></p>",
+          "description1": "Inderdaad, gratis!",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Beperkt aantal scholen!</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Onbeperkte gegevens opslag</span></li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li></ul><p><br></p><p><br></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "2018",
@@ -510,17 +686,17 @@
           "currency2": "€",
           "price2": "2",
           "period2": "/jaar per lid",
-          "description2": "Nieuwe features: Voting principe<br><br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><br></li><li class=\"list-group-item\">Onbeperkte gegevens opslag</li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li><li class=\"list-group-item\">Elektronische betalingen (0,5% commissie)</li><li class=\"list-group-item\"><br></li></ul>",
+          "description2": "Nieuwe features: Voting",
+          "list2": "<ul class=\"list-group list-group-flush\"><p><br></p><li class=\"list-group-item\">Onbeperkte gegevens opslag</li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li><li class=\"list-group-item\">Elektronische betalingen (0,5% commissie)</li><li class=\"list-group-item\"><br></li><p></p></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "Custom",
-          "subtitle3": "Laat je eigen software implementatie maken",
+          "subtitle3": "Laat je eigen software maken",
           "currency3": "€",
           "price3": "",
           "period3": "bel ons",
-          "description3": "Heb je specifieke eisen die nog niet in SwingIT beschikbaar zijn?",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><br></li><li class=\"list-group-item\">Onbeperkte gegevens opslag</li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li><li class=\"list-group-item\">Elektronische betalingen (0,5% commissie)</li><li class=\"list-group-item\">U vraagt - wij maken</li></ul>",
+          "description3": "Voor specifieke eisen<br>",
+          "list3": "<ul class=\"list-group list-group-flush\"><p><br></p><p></p><li class=\"list-group-item\">Onbeperkte gegevens opslag</li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li><li class=\"list-group-item\">Elektronische betalingen (0,5% commissie)</li><li class=\"list-group-item\">U vraagt - wij maken</li><p></p></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -531,19 +707,6 @@
           "description4": "More details",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-m",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>Door gebruik te maken van de nieuwste web technologieën, manage jij je vereniging als een professional. Laat je verbazen door funsctionaliteit en gebruiksgemak van SwingIT: vraag snel een demo account aan!</p></blockquote>"
         },
         {
           "_styles": {
@@ -558,7 +721,7 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-i",
+          "_anchor": "form2-b",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -578,34 +741,41 @@
           "form": {
             "action": "davy.jacops@gmail.com",
             "alerts": {
-              "success": "Dank u voor uw interesse!\n\nWij bezorgen u weldra de gegevens van uw demo account op SwingIT!\n"
+              "success": "Dank u!"
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Geef je e-mail adres..."
+                "customTitle": "Geef je e-mail adres"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GRAAG EEN DEMO ACCOUNT!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GRAAG EEN DEMO ACCOUNT!</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
+          "_inherit": "msg-box8",
           "_styles": {
-            "H3": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
               "text-align": "left"
             }
           },
-          "_anchor": "msg-box1-f",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": true,
             "bgVideo": {
@@ -615,14 +785,33 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
+            "showTitle": true,
             "showText": true,
-            "showTitle": true
+            "showButton": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
-          "text": "Automatisch dagelijkse backups, veilige SSL certificaten",
-          "title": "SwingIT is veilig en betrouwbaar"
+          "title": "SwingIT is veilig en betrouwbaar",
+          "text": "<p>Automatisch dagelijkse backups, veilige SSL certificaten</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 SwingIT!"
         }
       ]
     }
