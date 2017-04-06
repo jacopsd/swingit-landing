@@ -46,6 +46,14 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "msg-box1-e",
           "_params": {
             "paddingTop": 3,
@@ -69,15 +77,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Laat de technologie het werk doen voor jou",
-          "title": "SwingIT!",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "H2": {
-              "color": "#efefef"
-            }
-          }
+          "title": "SwingIT!"
         },
         {
           "_tags": [
@@ -229,7 +229,7 @@
           "title4": "Overal Beschikbaar",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Waar je ook bent, je kan altijd en overal aan je gegevens.<br>Je hoeft je excel file niet bij te hebben...<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -781,7 +781,7 @@
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Beperkt aantal scholen!</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Onbeperkte gegevens opslag</span></li><li class=\"list-group-item\">Dagelijkse Backup</li><li class=\"list-group-item\">Onbeperkte e-mail</li><li class=\"list-group-item\">20 cent per SMS</li></ul><p><br></p><p><br></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
-          "title2": "2018",
+          "title2": "2018 Early adopters",
           "subtitle2": "Je kan nu reeds pre-registreren",
           "currency2": "€",
           "price2": "2",
@@ -837,7 +837,7 @@
             "showSubTitle": true
           },
           "title": "PROBEER HET ZELF!",
-          "subtitle": "Krijg gratis toegang tot onze demo site<br>Je kan alle functionaliteit uittesten als beheerder<br>e-mails en SMS-en worden niet verstuurd ;)<br>Wij vragen enkel je e-mail adres en de naam van je dansschool / sportschool",
+          "subtitle": "Krijg gratis toegang tot onze demo site.<br>Je kan alle functionaliteit uittesten als beheerder.<br><br>e-mails en SMS-en die je vanop de demo site zou versturen worden in werkelijkheid niet verstuurd ;)<br><br>Wij vragen enkel je e-mail adres en de naam van je dansschool / sportschool",
           "form": {
             "action": "davy.jacops@gmail.com",
             "alerts": {
